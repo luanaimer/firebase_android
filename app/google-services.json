@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063922917788",
+    "firebase_url": "https://fir-androidluana.firebaseio.com",
+    "project_id": "fir-androidluana",
+    "storage_bucket": "fir-androidluana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063922917788:android:fe739c98a6b8dd3a0f6859",
+        "android_client_info": {
+          "package_name": "br.edu.ifsc.firebase_android_luana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063922917788-lc51jbjvmhn26kd31l6279u872384vea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsc.firebase_android_luana",
+            "certificate_hash": "2873e40641b40d0ab369cfbedaaa679fa1170646"
+          }
+        },
+        {
+          "client_id": "1063922917788-9gqp6l95agk9jj1k6sarcre538hhjeq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt6Fn4uf7p5TcNcXt3YWO3DeZFzf9B0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063922917788-9gqp6l95agk9jj1k6sarcre538hhjeq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
